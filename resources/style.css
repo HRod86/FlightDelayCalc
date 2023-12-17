@@ -35,7 +35,7 @@ body {
     display: flex;
     width: auto;
     height: 5.625rem; /* 90px */
-    background: url(resources/wingBanner.jpg);
+    background: url(wingBanner.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
