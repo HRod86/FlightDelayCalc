@@ -2,11 +2,20 @@ Flight delay Calculator V1.0
 
 Ferramenta para auxiliar o calculo de atraso(s) de um determinado voo. 
 
-V1.0
-* cálculo de Delay RA de forma automática
-* Possui seis campos para distribuição de códigos de atrasos
-* Possui seis campo para correlacionar os minutos de atrasos com o código de atraso
-* Calcula de forma dinâmica a distribuição dos minutos de atraso(s)
+Instruções de operação:
+
+1- Insira o a quantidade de minutos no campo Minimum Ground Time referente ao tempo de solo;
+2- Insira as informações de ATA, STD e ATD;
+3- Clicar no botão "Process / Recalc" na parte inferior do form;
+4- Havendo atrasos, o sistema calcula o Delay Total, calcula o Delay Code RA automaticamente (se houver) e informa a quantidade de minutos para distribuição;
+5- Nos campos Delay Code, informar o códido de atraso;
+6- Nos campos Min Dist. informar a quantidade de minutos à distribuir ao código de atraso na mesma linha;
+7- Utilizar TAB após inserir os minutos de atraso para ativar o evento onchange;
+8- Após atribuir alguma quantidade de minutos de atraso, o referido input box ficará desabilitado;
+9- Caso haja necessidade de corrigir alguma informação em elgum input box da distribuição de minutos de atraso, clicar em "Process / Recalc";
+10- Para resetar o form, clicar em F5;
+
+Obs.: Os input boxes referentes a minutos não aceitam valores negativos ou maiores que 9999; 
 
 
 ![image](https://github.com/HRod86/FlightDelayCalc/assets/119082360/ca4d1c72-3ec2-4a87-92d4-0a0898c02ee4)
