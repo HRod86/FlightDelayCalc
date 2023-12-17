@@ -1,4 +1,4 @@
-Flight delay Calculator V1.0
+Flight Delay Calculator V1.0
 
 Ferramenta para auxiliar o calculo de atraso(s) de um determinado voo. 
 
@@ -19,6 +19,4 @@ Obs.: Os input boxes referentes a minutos não aceitam valores negativos ou maio
 Img Preview do sistema (V1.0)
 
 
-![image](https://github.com/HRod86/FlightDelayCalc/assets/119082360/ca4d1c72-3ec2-4a87-92d4-0a0898c02ee4)
-
-
+![FlightDelayCalc_V1_screenshot](https://github.com/HRod86/FlightDelayCalc/assets/119082360/7a08d9c0-56fd-4e43-9821-5ccc7f1a2cbd)
