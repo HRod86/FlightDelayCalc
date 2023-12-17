@@ -8,7 +8,7 @@ Instruções de operação:
 2- Insira as informações de ATA, STD e ATD;                       
 3- Clicar no botão "Process / Recalc" na parte inferior do form;                  
 4- Havendo atrasos, o sistema calcula o Delay Total, calcula o Delay Code RA automaticamente (se houver) e informa a quantidade de minutos para distribuição;         
-5- Nos campos Delay Code, informar o códido de atraso;
+5- Nos campos Delay Code, informar o códido de atraso;            
 6- Nos campos Min Dist. informar a quantidade de minutos à distribuir ao código de atraso na mesma linha;               
 7- Utilizar TAB após inserir os minutos de atraso para ativar o evento onchange;               
 8- Após atribuir alguma quantidade de minutos de atraso, o referido input box ficará desabilitado;                  
