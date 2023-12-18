@@ -1,6 +1,9 @@
 Flight Delay Calculator V1.0
 
-Ferramenta para auxiliar o calculo de atraso(s) de um determinado voo. 
+Caros amigos Ground Dispatchers e Ground Operations, calcule os Delay Minutes do seu voo de forma rápida e prática!
+
+Digitando apenas o tempo de solo, ATA, STD e ATD, o sistema calcula (se aplicável) o Delay Code 93/RA e irá informar sobre os minutos remanescentes para serem distribuídos à outros Códigos de Atrasos. 
+A medida que é adicionado mais minutos de atraso à outros códigos de atraso, o sistema atualiza os minutos restantes para serem distribuídos. Quando os minutos restantes chegarem a zero, você terá concluído a distribuição de minutos de atraso / codigos de atraso com êxito. Se por ventura for informado mais minutos de atraso do que mostrado em minutos restantes, o sistema avizará que foi excedida a quantidade de minutos de atraso. Também há um link para uma lista de Delay Codes, disponível na Wikipedia verificada e atualizada. 
 
 Instruções de operação:
 
